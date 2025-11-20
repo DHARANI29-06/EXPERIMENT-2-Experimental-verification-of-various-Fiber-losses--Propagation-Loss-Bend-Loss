@@ -41,6 +41,7 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 
 **Result:**  
+
 Attenuation and bending loss characteristics verified.
 
 ---
